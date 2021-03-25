@@ -6,7 +6,7 @@
       <link rel="stylesheet type="text/css href="lab.css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
    </head>
-   <body style="background-color: black">
+   <body style="background-color: white">
       <h4 style="font-size: 50px;color:#ff9249"> NguyenAquatic Shop:</h4>
       <div class="container" style="background: #cdd;">
       </div>
